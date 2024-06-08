@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **cyber security**
 
-- 📫 How to reach me **insta facebook**
+- 📫  reach me on **insta facebook**
 
 - 📄 Know about my experiences [<img src="https://tryhackme-badges.s3.amazonaws.com/kishwordulal44.png" alt="TryHackMe">](<img src="https://tryhackme-badges.s3.amazonaws.com/kishwordulal44.png" alt="TryHackMe">)
 

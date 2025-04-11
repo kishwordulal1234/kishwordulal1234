@@ -193,118 +193,100 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
-<!-- Combined Achievements & Skills Section -->
+<!-- Achievements Section -->
+<h2 align="center">🏆 Achievements & Awards</h2>
 <table>
   <tr>
-    <td align="center" width="58%">
-      <h3>🏆 Achievements & Awards</h3>
-      <table>
-        <tr>
-          <th>Competition</th>
-          <th>Position</th>
-          <th>Competition</th>
-          <th>Position</th>
-        </tr>
-        <tr>
-          <td>Herald College Hackathon</td>
-          <td>🥇 1st Place</td>
-          <td>The Cyberian Coder</td>
-          <td>🏅 Winner</td>
-        </tr>
-        <tr>
-          <td>CCRC College Tech Fest</td>
-          <td>🏆 Champion</td>
-          <td>National Coding Championship</td>
-          <td>🎖️ Finalist</td>
-        </tr>
-        <tr>
-          <td>Codemandu Hackathon</td>
-          <td>🥈 1st Runner-up</td>
-          <td>Kathmandu Tech Meetup</td>
-          <td>🏆 Best Project</td>
-        </tr>
-        <tr>
-          <td>Thenoman Way Cybersecurity</td>
-          <td>🏅 Winner</td>
-          <td>Digital Nepal Hackathon</td>
-          <td>⭐ Top Performer</td>
-        </tr>
-        <tr>
-          <td>Inter-School Coding Competition</td>
-          <td>🥇 Gold Medal</td>
-          <td>CyberSec Nepal 2023</td>
-          <td>🥇 1st Place</td>
-        </tr>
-        <tr>
-          <td>Inter-College Programming Contest</td>
-          <td>🏆 Champion</td>
-          <td>Ethical Hacking Summit</td>
-          <td>🏆 Champion</td>
-        </tr>
-        <tr>
-          <td>The Payback Hacking Challenge</td>
-          <td>🥇 1st Place</td>
-          <td>KTM CTF Challenge</td>
-          <td>🏅 Winner</td>
-        </tr>
-        <tr>
-          <td>Himalayan Tech Fest</td>
-          <td>🥇 Gold Medal</td>
-          <td>Robotics & AI Challenge</td>
-          <td>🏅 Winner</td>
-        </tr>
-        <tr>
-          <td>Nepal Cyber Olympiad</td>
-          <td>🥇 1st Place</td>
-          <td>Pulchowk Engineering Hackathon</td>
-          <td>🏆 Champion</td>
-        </tr>
-      </table>
-    </td>
-    <td align="center" width="42%">
-      <h3>🧠 Skills & Technologies</h3>
-      
-      <h4>💪 Programming Language Proficiency</h4>
-      
-      <table>
-        <tr>
-          <th width="60%">Language</th>
-          <th width="40%">Proficiency</th>
-        </tr>
-        <tr>
-          <td>Python</td>
-          <td>90%</td>
-        </tr>
-        <tr>
-          <td>C/C++</td>
-          <td>80%</td>
-        </tr>
-        <tr>
-          <td>JavaScript</td>
-          <td>70%</td>
-        </tr>
-        <tr>
-          <td>HTML/CSS</td>
-          <td>75%</td>
-        </tr>
-        <tr>
-          <td>TypeScript</td>
-          <td>60%</td>
-        </tr>
-        <tr>
-          <td>Bash/Shell</td>
-          <td>70%</td>
-        </tr>
-      </table>
-      
-      <h4>☁️ Cloud & DevOps</h4>
-      <p>AWS, Docker, GitHub Actions, Linux</p>
-      
-      <h4>🔧 Tools I Love</h4>
-      <p>Neovim, tmux, Jupyter, Git</p>
-    </td>
+    <th>Competition</th>
+    <th>Position</th>
+    <th>Competition</th>
+    <th>Position</th>
+  </tr>
+  <tr>
+    <td>Herald College Hackathon</td>
+    <td>🥇 1st Place</td>
+    <td>The Cyberian Coder</td>
+    <td>🏅 Winner</td>
+  </tr>
+  <tr>
+    <td>CCRC College Tech Fest</td>
+    <td>🏆 Champion</td>
+    <td>National Coding Championship</td>
+    <td>🎖️ Finalist</td>
+  </tr>
+  <tr>
+    <td>Codemandu Hackathon</td>
+    <td>🥈 1st Runner-up</td>
+    <td>Kathmandu Tech Meetup</td>
+    <td>🏆 Best Project</td>
+  </tr>
+  <tr>
+    <td>Thenoman Way Cybersecurity</td>
+    <td>🏅 Winner</td>
+    <td>Digital Nepal Hackathon</td>
+    <td>⭐ Top Performer</td>
+  </tr>
+  <tr>
+    <td>Inter-School Coding Competition</td>
+    <td>🥇 Gold Medal</td>
+    <td>CyberSec Nepal 2023</td>
+    <td>🥇 1st Place</td>
+  </tr>
+  <tr>
+    <td>Inter-College Programming Contest</td>
+    <td>🏆 Champion</td>
+    <td>Ethical Hacking Summit</td>
+    <td>🏆 Champion</td>
+  </tr>
+  <tr>
+    <td>The Payback Hacking Challenge</td>
+    <td>🥇 1st Place</td>
+    <td>KTM CTF Challenge</td>
+    <td>🏅 Winner</td>
+  </tr>
+  <tr>
+    <td>Himalayan Tech Fest</td>
+    <td>🥇 Gold Medal</td>
+    <td>Robotics & AI Challenge</td>
+    <td>🏅 Winner</td>
+  </tr>
+  <tr>
+    <td>Nepal Cyber Olympiad</td>
+    <td>🥇 1st Place</td>
+    <td>Pulchowk Engineering Hackathon</td>
+    <td>🏆 Champion</td>
   </tr>
 </table>
+
+<!-- Skills Section -->
+<h2 align="center">🧠 Skills & Technologies</h2>
+
+<h3 align="center">💪 Programming Language Proficiency</h3>
+
+<p align="center">
+  <code>Python (90%)</code> • 
+  <code>C/C++ (80%)</code> • 
+  <code>JavaScript (70%)</code> • 
+  <code>HTML/CSS (75%)</code> • 
+  <code>TypeScript (60%)</code> • 
+  <code>Bash/Shell (70%)</code>
+</p>
+
+<h3 align="center">☁️ Cloud & DevOps</h3>
+<p align="center">
+  <code>AWS</code> • 
+  <code>Docker</code> • 
+  <code>GitHub Actions</code> • 
+  <code>Linux</code>
+</p>
+
+<h3 align="center">🔧 Tools I Love</h3>
+<p align="center">
+  <code>Neovim</code> • 
+  <code>tmux</code> • 
+  <code>Jupyter</code> • 
+  <code>Git</code>
+</p>
 
 <!-- Random Dev Meme -->
 <div align="center">

@@ -193,15 +193,25 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
+<!-- Random Dev Meme -->
 <div align="center">
-  <a href="https://github.com/kishwordulal1234">
-    <img src="https://img.shields.io/github/followers/kishwordulal1234?label=Follow&style=social" alt="GitHub followers" />
-  </a>
+  <h2>😂 Random Dev Meme</h2>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="450px" alt="Random Dev Meme" />
+</div>
+
+<!-- GitHub Stats -->
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <p>
+    <a href="https://github.com/kishwordulal1234">
+      <img src="https://img.shields.io/github/followers/kishwordulal1234?label=Follow&style=social" alt="GitHub followers" />
+    </a>
+  </p>
 </div>
 
 <!-- Activity Graph -->
 <div align="center">
-  <h2>📊 Contribution Activity Graph 📊</h2>
+  <h2>📈 Contribution Activity Graph</h2>
   <a href="https://github.com/kishwordulal1234">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishwordulal1234&theme=react-dark&hide_border=true&custom_title=Kishwor's%20Contribution%20Graph" alt="Activity Graph" />
   </a>
@@ -256,18 +266,6 @@
   <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
-
-<!-- Random Dev Meme -->
-<div align="center">
-  <h2>😂 Random Dev Meme</h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG01bWlwM2dpd2dmMWY2Nm5pZnlyM2EyODdteTl6dXdhNWJrYzJ0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="400px" alt="Random Dev Meme" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/kishwordulal1234">
-    <img src="https://img.shields.io/github/followers/kishwordulal1234?label=Follow&style=social" alt="GitHub followers" />
-  </a>
 </div>
 
 

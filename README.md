@@ -207,28 +207,53 @@
   </a>
 </div>
 
-<!-- GitHub Skyline -->
-<div align="center">
-  <h2>🏙️ GitHub Skyline 🏙️</h2>
-  <a href="https://skyline.github.com/kishwordulal1234/2023" target="_blank">
-    <img src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.gif" width="600px" alt="GitHub Skyline Animation" />
-  </a>
-  <p><b>View my <a href="https://skyline.github.com/kishwordulal1234/2023" target="_blank">GitHub Skyline</a> in 3D</b></p>
-</div>
-
 <div align="center">
   <h2>🧠 Skills & Technologies</h2>
   
   <h3>💪 Programming Language Proficiency</h3>
   
-  ```text
-  Python       ███████████████████░   90% 
-  C/C++        ████████████████░░░░   80% 
-  JavaScript   ██████████████░░░░░░   70% 
-  HTML/CSS     ███████████████░░░░░   75% 
-  TypeScript   ████████████░░░░░░░░   60%
-  Bash/Shell   ██████████████░░░░░░   70%
-  ```
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/kishwordulal1234/kishwordulal1234/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Programming Skills" width="700">
+  </p>
+  
+  <table>
+  <tr>
+  <td><img src="https://img.shields.io/badge/Python-%23ED8B00.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></td>
+  <td>
+  <img src="https://progress-bar.dev/90/?width=400&color=7957d5" alt="90%">
+  </td>
+  </tr>
+  <tr>
+  <td><img src="https://img.shields.io/badge/C%2FC%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++"/></td>
+  <td>
+  <img src="https://progress-bar.dev/80/?width=400&color=7957d5" alt="80%">
+  </td>
+  </tr>
+  <tr>
+  <td><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></td>
+  <td>
+  <img src="https://progress-bar.dev/70/?width=400&color=7957d5" alt="70%">
+  </td>
+  </tr>
+  <tr>
+  <td><img src="https://img.shields.io/badge/HTML%2FCSS-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS"/></td>
+  <td>
+  <img src="https://progress-bar.dev/75/?width=400&color=7957d5" alt="75%">
+  </td>
+  </tr>
+  <tr>
+  <td><img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></td>
+  <td>
+  <img src="https://progress-bar.dev/60/?width=400&color=7957d5" alt="60%">
+  </td>
+  </tr>
+  <tr>
+  <td><img src="https://img.shields.io/badge/Bash%2FShell-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash/Shell"/></td>
+  <td>
+  <img src="https://progress-bar.dev/70/?width=400&color=7957d5" alt="70%">
+  </td>
+  </tr>
+  </table>
   
   <h3>☁️ Cloud & DevOps</h3>
   

@@ -212,47 +212,35 @@
   
   <h3>💪 Programming Language Proficiency</h3>
   
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/kishwordulal1234/kishwordulal1234/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Programming Skills" width="700">
-  </p>
-  
   <table>
-  <tr>
-  <td><img src="https://img.shields.io/badge/Python-%23ED8B00.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></td>
-  <td>
-  <img src="https://progress-bar.dev/90/?width=400&color=7957d5" alt="90%">
-  </td>
-  </tr>
-  <tr>
-  <td><img src="https://img.shields.io/badge/C%2FC%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++"/></td>
-  <td>
-  <img src="https://progress-bar.dev/80/?width=400&color=7957d5" alt="80%">
-  </td>
-  </tr>
-  <tr>
-  <td><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></td>
-  <td>
-  <img src="https://progress-bar.dev/70/?width=400&color=7957d5" alt="70%">
-  </td>
-  </tr>
-  <tr>
-  <td><img src="https://img.shields.io/badge/HTML%2FCSS-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS"/></td>
-  <td>
-  <img src="https://progress-bar.dev/75/?width=400&color=7957d5" alt="75%">
-  </td>
-  </tr>
-  <tr>
-  <td><img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></td>
-  <td>
-  <img src="https://progress-bar.dev/60/?width=400&color=7957d5" alt="60%">
-  </td>
-  </tr>
-  <tr>
-  <td><img src="https://img.shields.io/badge/Bash%2FShell-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash/Shell"/></td>
-  <td>
-  <img src="https://progress-bar.dev/70/?width=400&color=7957d5" alt="70%">
-  </td>
-  </tr>
+    <tr>
+      <th>Language</th>
+      <th>Proficiency</th>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></td>
+      <td><img src="https://raw.githubusercontent.com/kishwordulal1234/kishwordulal1234/main/assets/bar-90.png" height="20" alt="90%" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++"/></td>
+      <td><img src="https://raw.githubusercontent.com/kishwordulal1234/kishwordulal1234/main/assets/bar-80.png" height="20" alt="80%" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></td>
+      <td><img src="https://raw.githubusercontent.com/kishwordulal1234/kishwordulal1234/main/assets/bar-70.png" height="20" alt="70%" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS"/></td>
+      <td><img src="https://raw.githubusercontent.com/kishwordulal1234/kishwordulal1234/main/assets/bar-75.png" height="20" alt="75%" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></td>
+      <td><img src="https://raw.githubusercontent.com/kishwordulal1234/kishwordulal1234/main/assets/bar-60.png" height="20" alt="60%" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Bash/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash/Shell"/></td>
+      <td><img src="https://raw.githubusercontent.com/kishwordulal1234/kishwordulal1234/main/assets/bar-70.png" height="20" alt="70%" /></td>
+    </tr>
   </table>
   
   <h3>☁️ Cloud & DevOps</h3>
@@ -268,6 +256,18 @@
   <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+<!-- Random Dev Meme -->
+<div align="center">
+  <h2>😂 Random Dev Meme</h2>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG01bWlwM2dpd2dmMWY2Nm5pZnlyM2EyODdteTl6dXdhNWJrYzJ0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="400px" alt="Random Dev Meme" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/kishwordulal1234">
+    <img src="https://img.shields.io/github/followers/kishwordulal1234?label=Follow&style=social" alt="GitHub followers" />
+  </a>
 </div>
 
 

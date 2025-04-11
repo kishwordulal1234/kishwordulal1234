@@ -229,27 +229,27 @@
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></td>
-      <td><img src="https://raw.githubusercontent.com/kishwordulal1234/kishwordulal1234/main/assets/bar-90.png" height="20" alt="90%" /></td>
+      <td><img src="https://img.shields.io/badge/90%25-3776AB?style=for-the-badge&labelColor=gray" alt="90%" /></td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++"/></td>
-      <td><img src="https://raw.githubusercontent.com/kishwordulal1234/kishwordulal1234/main/assets/bar-80.png" height="20" alt="80%" /></td>
+      <td><img src="https://img.shields.io/badge/80%25-00599C?style=for-the-badge&labelColor=gray" alt="80%" /></td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></td>
-      <td><img src="https://raw.githubusercontent.com/kishwordulal1234/kishwordulal1234/main/assets/bar-70.png" height="20" alt="70%" /></td>
+      <td><img src="https://img.shields.io/badge/70%25-F7DF1E?style=for-the-badge&labelColor=gray&color=F7DF1E&logoColor=black" alt="70%" /></td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS"/></td>
-      <td><img src="https://raw.githubusercontent.com/kishwordulal1234/kishwordulal1234/main/assets/bar-75.png" height="20" alt="75%" /></td>
+      <td><img src="https://img.shields.io/badge/75%25-E34F26?style=for-the-badge&labelColor=gray" alt="75%" /></td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></td>
-      <td><img src="https://raw.githubusercontent.com/kishwordulal1234/kishwordulal1234/main/assets/bar-60.png" height="20" alt="60%" /></td>
+      <td><img src="https://img.shields.io/badge/60%25-3178C6?style=for-the-badge&labelColor=gray" alt="60%" /></td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/Bash/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash/Shell"/></td>
-      <td><img src="https://raw.githubusercontent.com/kishwordulal1234/kishwordulal1234/main/assets/bar-70.png" height="20" alt="70%" /></td>
+      <td><img src="https://img.shields.io/badge/70%25-4EAA25?style=for-the-badge&labelColor=gray" alt="70%" /></td>
     </tr>
   </table>
   

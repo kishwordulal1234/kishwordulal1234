@@ -201,25 +201,63 @@
     <tr>
       <th>Competition</th>
       <th>Position</th>
+      <th>Competition</th>
+      <th>Position</th>
     </tr>
-    <tr><td>Herald College Hackathon</td><td>🥇 1st Place</td></tr>
-    <tr><td>CCRC College Tech Fest</td><td>🏆 Champion</td></tr>
-    <tr><td>Codemandu Hackathon</td><td>🥈 1st Runner-up</td></tr>
-    <tr><td>Thenoman Way Cybersecurity Challenge</td><td>🏅 Winner</td></tr>
-    <tr><td>Inter-School Coding Competition</td><td>🥇 Gold Medal</td></tr>
-    <tr><td>Inter-College Programming Contest</td><td>🏆 Champion</td></tr>
-    <tr><td>The Payback Hacking Challenge</td><td>🥇 1st Place</td></tr>
-    <tr><td>The Cyberian Coder</td><td>🏅 Winner</td></tr>
-    <tr><td>National Coding Championship</td><td>🎖️ Finalist</td></tr>
-    <tr><td>Kathmandu Tech Meetup</td><td>🏆 Best Project</td></tr>
-    <tr><td>Digital Nepal Hackathon</td><td>⭐ Top Performer</td></tr>
-    <tr><td>CyberSec Nepal 2023</td><td>🥇 1st Place</td></tr>
-    <tr><td>Ethical Hacking Summit</td><td>🏆 Champion</td></tr>
-    <tr><td>KTM CTF Challenge</td><td>🏅 Winner</td></tr>
-    <tr><td>Himalayan Tech Fest</td><td>🥇 Gold Medal</td></tr>
-    <tr><td>Nepal Cyber Olympiad</td><td>🥇 1st Place</td></tr>
-    <tr><td>Pulchowk Engineering Hackathon</td><td>🏆 Champion</td></tr>
-    <tr><td>Robotics & AI Challenge</td><td>🏅 Winner</td></tr>
+    <tr>
+      <td>Herald College Hackathon</td>
+      <td>🥇 1st Place</td>
+      <td>The Cyberian Coder</td>
+      <td>🏅 Winner</td>
+    </tr>
+    <tr>
+      <td>CCRC College Tech Fest</td>
+      <td>🏆 Champion</td>
+      <td>National Coding Championship</td>
+      <td>🎖️ Finalist</td>
+    </tr>
+    <tr>
+      <td>Codemandu Hackathon</td>
+      <td>🥈 1st Runner-up</td>
+      <td>Kathmandu Tech Meetup</td>
+      <td>🏆 Best Project</td>
+    </tr>
+    <tr>
+      <td>Thenoman Way Cybersecurity</td>
+      <td>🏅 Winner</td>
+      <td>Digital Nepal Hackathon</td>
+      <td>⭐ Top Performer</td>
+    </tr>
+    <tr>
+      <td>Inter-School Coding Competition</td>
+      <td>🥇 Gold Medal</td>
+      <td>CyberSec Nepal 2023</td>
+      <td>🥇 1st Place</td>
+    </tr>
+    <tr>
+      <td>Inter-College Programming Contest</td>
+      <td>🏆 Champion</td>
+      <td>Ethical Hacking Summit</td>
+      <td>🏆 Champion</td>
+    </tr>
+    <tr>
+      <td>The Payback Hacking Challenge</td>
+      <td>🥇 1st Place</td>
+      <td>KTM CTF Challenge</td>
+      <td>🏅 Winner</td>
+    </tr>
+    <tr>
+      <td>Himalayan Tech Fest</td>
+      <td>🥇 Gold Medal</td>
+      <td>Robotics & AI Challenge</td>
+      <td>🏅 Winner</td>
+    </tr>
+    <tr>
+      <td>Nepal Cyber Olympiad</td>
+      <td>🥇 1st Place</td>
+      <td>Pulchowk Engineering Hackathon</td>
+      <td>🏆 Champion</td>
+    </tr>
   </table>
 </div>
 

@@ -194,22 +194,6 @@
 </div>
 
 <div align="center">
-  <h3>💻 Coding Activity</h3>
-  <a href="https://github.com/kishwordulal1234">
-    <img src="https://github-readme-stats.vercel.app/api?username=kishwordulal1234&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Kishwor's GitHub Stats" />
-  </a>
-  <br><br>
-  <a href="https://github.com/kishwordulal1234">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishwordulal1234&theme=radical&hide_border=true" alt="Kishwor's GitHub Streak" />
-  </a>
-</div>
-
-<div align="center">
-  <h3>😂 Random Dev Meme</h3>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG01bWlwM2dpd2dmMWY2Nm5pZnlyM2EyODdteTl6dXdhNWJrYzJ0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="400px" alt="Random Dev Meme" />
-</div>
-
-<div align="center">
   <a href="https://github.com/kishwordulal1234">
     <img src="https://img.shields.io/github/followers/kishwordulal1234?label=Follow&style=social" alt="GitHub followers" />
   </a>
@@ -230,6 +214,35 @@
     <img src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.gif" width="600px" alt="GitHub Skyline Animation" />
   </a>
   <p><b>View my <a href="https://skyline.github.com/kishwordulal1234/2023" target="_blank">GitHub Skyline</a> in 3D</b></p>
+</div>
+
+<div align="center">
+  <h2>🧠 Skills & Technologies</h2>
+  
+  <h3>💪 Programming Language Proficiency</h3>
+  
+  ```text
+  Python       ███████████████████░   90% 
+  C/C++        ████████████████░░░░   80% 
+  JavaScript   ██████████████░░░░░░   70% 
+  HTML/CSS     ███████████████░░░░░   75% 
+  TypeScript   ████████████░░░░░░░░   60%
+  Bash/Shell   ██████████████░░░░░░   70%
+  ```
+  
+  <h3>☁️ Cloud & DevOps</h3>
+  
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  
+  <h3>🔧 Tools I Love</h3>
+  
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 

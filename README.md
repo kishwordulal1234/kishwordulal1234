@@ -14,13 +14,9 @@
 </div>
 
 <!-- Terminal Window Start -->
-<div style="background-color: #1E1E1E; border-radius: 10px; padding: 20px; margin-bottom: 20px; border: 1px solid #66FF66;">
-  <div style="display: flex; gap: 10px; margin-bottom: 10px;">
-    <span style="display: inline-block; width: 12px; height: 12px; border-radius: 50%; background-color: #FF5F56;"></span>
-    <span style="display: inline-block; width: 12px; height: 12px; border-radius: 50%; background-color: #FFBD2E;"></span>
-    <span style="display: inline-block; width: 12px; height: 12px; border-radius: 50%; background-color: #27C93F;"></span>
-    <span style="margin-left: 10px; color: #66FF66; font-family: monospace;">kali@kishwor:~#</span>
-  </div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+</div>
 
 ```bash
 #!/usr/bin/env bash
@@ -51,11 +47,23 @@ echo "Specialization: $SPECIALIZATION"
 echo "Threat Assessment: $THREAT_LEVEL"
 echo "Notable Exploits: ${ACHIEVEMENTS[*]}"
 echo "Warning: Approach with extreme caution. Not to be controlled."
-```
-</div>
+I'll need to:
 
-&lt;!-- TryHackMe Profile -->
-<div align="center">
+1. Keep the core content and structure
+2. Ensure all markdown is properly formatted
+3. Fix any HTML issues (like the commented sections that aren't properly commented)
+4. Make sure all styling is compatible with GitHub markdown
+5. Output the entire content as a single markdown file
+
+
+Let me create a professional version of this README while maintaining its unique style.
+`</Thinking>`
+
+```markdown project="GitHub README" file="README.md"
+...
+```
+
+`<!-- TryHackMe Profile -->``<div align="center">
   <h2><img src="https://tryhackme-badges.s3.amazonaws.com/kishwordulal44.png" alt="TryHackMe" width="20"/> TRYHACKME PROFILE</h2>
   <img src="https://sjc.microlink.io/VnI0jHmLbAesoh7Z_3aqmHjalTEaF0ZvLS_yOyEQnG59YSE64fewTKlzPsGaqs89SEpvkUAbiX7w6U8znHVl3Q.jpeg" alt="TryHackMe Profile" width="400px" />
   <br>
@@ -64,12 +72,7 @@ echo "Warning: Approach with extreme caution. Not to be controlled."
     <img src="https://img.shields.io/badge/Rooms_Completed-53-212121?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Rooms Completed" />
     <img src="https://img.shields.io/badge/Badges_Earned-10-212121?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Badges Earned" />
   </div>
-</div>
-
-&lt;!-- GitHub Stats -->
-<h2 align="center">GitHub Stats</h2>
-
-<div align="center">
+</div>``<!-- GitHub Stats -->``<h2 align="center">⚡ GitHub Analytics</h2>``<div align="center">
   <table>
     <tr>
       <td width="50%" align="center">
@@ -86,41 +89,26 @@ echo "Warning: Approach with extreme caution. Not to be controlled."
       </td>
     </tr>
   </table>
-</div>
-
-&lt;!-- Detailed GitHub Stats -->
-<div align="center">
-  <h2>Detailed GitHub Analysis</h2>
-  <table style="border: none;">
+</div>``<!-- Detailed GitHub Stats -->``<div align="center">
+  <h2>🔍 Detailed GitHub Analysis</h2>
+  <table>
     <tr>
-      <td style="border: none;">
+      <td>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kishwordulal1234&theme=github_dark" alt="Stats Card" />
       </td>
-      <td style="border: none;">
+      <td>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kishwordulal1234&theme=github_dark" alt="Top Languages by Repo" />
       </td>
-      <td style="border: none;">
+      <td>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kishwordulal1234&theme=github_dark" alt="Top Languages by Commit" />
       </td>
     </tr>
   </table>
-</div>
-
-&lt;!-- GitHub Trophies -->
-<div align="center">
-  <h2>GitHub Achievements</h2>
+</div>``<!-- GitHub Trophies -->``<div align="center">
+  <h2>🏆 GitHub Achievements</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=kishwordulal1234&theme=darkhub&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" width="100%" alt="GitHub Trophies" />
-</div>
-
-&lt;!-- Tech Stack Section with Kali Terminal Theme -->
-<div style="background-color: #1E1E1E; border-radius: 10px; padding: 20px; margin: 20px 0; border: 1px solid #66FF66;">
-  <div style="margin-bottom: 10px;">
-    <span style="color: #66FF66; font-family: monospace;">kali@kishwor:~# cat tech_stack.txt</span>
-  </div>
-  
-  <h3 style="color: #66FF66; border-bottom: 1px solid #66FF66; padding-bottom: 10px;">TECHNICAL EXPERTISE</h3>
-  
-  <div align="center" style="padding: 10px;">
+</div>``<!-- Tech Stack Section with Kali Terminal Theme -->``<div align="center">
+  <h2>💻 Technical Arsenal</h2>``  <h3>TECHNICAL EXPERTISE</h3>``  <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=212121" alt="Python" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=212121" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=212121" alt="CSS3" />
@@ -135,15 +123,7 @@ echo "Warning: Approach with extreme caution. Not to be controlled."
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&color=212121" alt="Kubernetes" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=212121" alt="Git" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=212121" alt="Linux" />
-  </div>
-  
-  <div style="margin-top: 15px;">
-    <span style="color: #66FF66; font-family: monospace;">kali@kishwor:~# cat cybersecurity_tools.txt</span>
-  </div>
-  
-  <h3 style="color: #66FF66; border-bottom: 1px solid #66FF66; padding-bottom: 10px;">CYBERSECURITY TOOLBOX</h3>
-  
-  <div align="center" style="padding: 10px;">
+  </div>``  <h3>CYBERSECURITY TOOLBOX</h3>``  <div align="center">
     <img src="https://img.shields.io/badge/Nmap-212121?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&color=212121" alt="Wireshark" />
     <img src="https://img.shields.io/badge/Metasploit-E8440D?style=for-the-badge&logo=metasploit&logoColor=white&color=212121" alt="Metasploit" />
@@ -153,57 +133,43 @@ echo "Warning: Approach with extreme caution. Not to be controlled."
     <img src="https://img.shields.io/badge/John_The_Ripper-557C94?style=for-the-badge&logoColor=white&color=212121" alt="John The Ripper" />
     <img src="https://img.shields.io/badge/Aircrack--ng-194023?style=for-the-badge&logoColor=white&color=212121" alt="Aircrack-ng" />
   </div>
-</div>
-
-&lt;!-- Hackathon Achievements -->
-<div style="background-color: #1E1E1E; border-radius: 10px; padding: 20px; margin: 20px 0; border: 1px solid #66FF66;">
-  <div style="margin-bottom: 10px;">
-    <span style="color: #66FF66; font-family: monospace;">kali@kishwor:~# cat achievements.txt</span>
-  </div>
-
-  <h2 style="color: #66FF66; border-bottom: 1px solid #66FF66; padding-bottom: 10px;">HACKATHON ACHIEVEMENTS</h2>
-
-  <div align="center">
-    <table border="0" cellspacing="0" cellpadding="0">
-      <tr>
-        <td align="center">
-          <img src="https://img.shields.io/badge/Herald_College_Hackathon-1st_Place-FFD700?style=for-the-badge&labelColor=212121" alt="Herald College Hackathon" />
-        </td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/PCPA_College_Coding_Challenge-Winner-FFD700?style=for-the-badge&labelColor=212121" alt="PCPA College Coding Challenge" />
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://img.shields.io/badge/CCRC_College_Tech_Fest-Champion-FFD700?style=for-the-badge&labelColor=212121" alt="CCRC College Tech Fest" />
-        </td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/Codemandu_Hackathon-1st_Runner_up-C0C0C0?style=for-the-badge&labelColor=212121" alt="Codemandu Hackathon" />
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://img.shields.io/badge/Thenoman_Way_Cybersecurity-Winner-FFD700?style=for-the-badge&labelColor=212121" alt="Thenoman Way Cybersecurity" />
-        </td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/Inter_School_Coding-Gold_Medal-FFD700?style=for-the-badge&labelColor=212121" alt="Inter-School Coding" />
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://img.shields.io/badge/The_Payback_Hacking-1st_Place-FFD700?style=for-the-badge&labelColor=212121" alt="The Payback Hacking" />
-        </td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/CyberSec_Nepal_2023-1st_Place-FFD700?style=for-the-badge&labelColor=212121" alt="CyberSec Nepal 2023" />
-        </td>
-      </tr>
-    </table>
-  </div>
-</div>
-
-&lt;!-- Featured Projects -->
-<div align="center">
-  <h2>Featured Projects</h2>
+</div>``<!-- Hackathon Achievements -->``<div align="center">
+  <h2>🏅 Hackathon Achievements</h2>``  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Herald_College_Hackathon-1st_Place-FFD700?style=for-the-badge&labelColor=212121" alt="Herald College Hackathon" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/PCPA_College_Coding_Challenge-Winner-FFD700?style=for-the-badge&labelColor=212121" alt="PCPA College Coding Challenge" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/CCRC_College_Tech_Fest-Champion-FFD700?style=for-the-badge&labelColor=212121" alt="CCRC College Tech Fest" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Codemandu_Hackathon-1st_Runner_up-C0C0C0?style=for-the-badge&labelColor=212121" alt="Codemandu Hackathon" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Thenoman_Way_Cybersecurity-Winner-FFD700?style=for-the-badge&labelColor=212121" alt="Thenoman Way Cybersecurity" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Inter_School_Coding-Gold_Medal-FFD700?style=for-the-badge&labelColor=212121" alt="Inter-School Coding" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/The_Payback_Hacking-1st_Place-FFD700?style=for-the-badge&labelColor=212121" alt="The Payback Hacking" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/CyberSec_Nepal_2023-1st_Place-FFD700?style=for-the-badge&labelColor=212121" alt="CyberSec Nepal 2023" />
+      </td>
+    </tr>
+  </table>
+</div>``<!-- Featured Projects -->``<div align="center">
+  <h2>🚀 Featured Projects</h2>
   <table>
     <tr>
       <td width="50%" align="center">
@@ -234,23 +200,11 @@ echo "Warning: Approach with extreme caution. Not to be controlled."
       </td>
     </tr>
   </table>
-</div>
-
-&lt;!-- Activity Graph -->
-<div align="center">
-  <h2>Contribution Activity</h2>
+</div>``<!-- Activity Graph -->``<div align="center">
+  <h2>📊 Contribution Activity</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishwordulal1234&theme=github-compact&bg_color=0D1117&color=66FF66&line=66FF66&point=FFFFFF&hide_border=true" alt="Activity Graph" />
-</div>
-
-&lt;!-- Terminal Section for Contact -->
-<div style="background-color: #1E1E1E; border-radius: 10px; padding: 20px; margin: 20px 0; border: 1px solid #66FF66;">
-  <div style="margin-bottom: 10px;">
-    <span style="color: #66FF66; font-family: monospace;">kali@kishwor:~# cat contact_info.txt</span>
-  </div>
-  
-  <h3 style="color: #66FF66; border-bottom: 1px solid #66FF66; padding-bottom: 10px;">CONNECT WITH ME</h3>
-  
-  <div align="center" style="padding: 10px;">
+</div>``<!-- Terminal Section for Contact -->``<div align="center">
+  <h2>📱 Connect With Me</h2>``  <div align="center">
     <a href="https://linkedin.com/in/kishwordulal" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=212121" alt="LinkedIn" />
     </a>
@@ -270,28 +224,13 @@ echo "Warning: Approach with extreme caution. Not to be controlled."
       <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&color=212121" alt="GitHub" />
     </a>
   </div>
-</div>
-
-<div align="center">
+</div>``<div align="center">
   <img src="https://komarev.com/ghpvc/?username=kishwordulal1234&label=Profile+Views&style=for-the-badge&color=212121" alt="Profile Views" />
+</div>``<!-- Terminal Exit -->``<div align="center">
+  <h3>"I am not just a hacker—I am a force of nature.<br>
+  I do not just seek information—I own it.<br>
+  I do not just find vulnerabilities—I exploit them.<br>
+  I do not just follow trends—I create them.<br>
+  In the end, a complete nightmare in the digital world."</h3>``  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
-
-&lt;!-- Terminal Exit -->
-<div style="background-color: #1E1E1E; border-radius: 10px; padding: 20px; margin-top: 20px; border: 1px solid #66FF66;">
-  <div style="margin-bottom: 10px;">
-    <span style="color: #66FF66; font-family: monospace;">kali@kishwor:~# echo "The Digital Phantom's Manifesto"</span>
-  </div>
-  
-  <div style="color: #66FF66; font-family: monospace; text-align: center; padding: 15px;">
-    "I am not just a hacker—I am a force of nature.<br>
-    I do not just seek information—I own it.<br>
-    I do not just find vulnerabilities—I exploit them.<br>
-    I do not just follow trends—I create them.<br>
-    In the end, a complete nightmare in the digital world."
-  </div>
-  
-  <div style="margin-top: 10px;">
-    <span style="color: #66FF66; font-family: monospace;">kali@kishwor:~# exit</span><br>
-    <span style="color: #66FF66; font-family: monospace;">Connection terminated.</span>
-  </div>
-</div>
+````

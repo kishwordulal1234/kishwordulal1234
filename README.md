@@ -144,15 +144,15 @@
     <tr>
       <td width="50%" align="center">
         <h3>Security Tool</h3>
-        <a href="https://github.com/kishwordulal1234/project1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kishwordulal1234&repo=project1&theme=radical" alt="Project 1" />
+        <a href="https://github.com/kishwordulal1234/SENTINEL">
+          <img src="https://github.com/kishwordulal1234/SENTINEL" alt="Project 1" />
         </a>
         <p>A cybersecurity tool built with Python for network analysis and vulnerability scanning</p>
       </td>
       <td width="50%" align="center">
         <h3>Web Application</h3>
-        <a href="https://github.com/kishwordulal1234/project2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kishwordulal1234&repo=project2&theme=radical" alt="Project 2" />
+        <a href="https://github.com/kishwordulal1234/ai_health-bot">
+          <img src="https://github.com/kishwordulal1234/ai_health-bot" alt="Project 2" />
         </a>
         <p>A full-stack web application built with React, Node.js, and MongoDB</p>
       </td>
@@ -160,15 +160,15 @@
     <tr>
       <td width="50%" align="center">
         <h3>Linux Tool</h3>
-        <a href="https://github.com/kishwordulal1234/project3">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kishwordulal1234&repo=project3&theme=radical" alt="Project 3" />
+        <a href="https://github.com/kishwordulal1234/zotak.ai">
+          <img src="https://github.com/kishwordulal1234/zotak.ai" alt="Project 3" />
         </a>
         <p>A command-line utility written in C for system administration and automation</p>
       </td>
       <td width="50%" align="center">
-        <h3>CTF Writeups</h3>
-        <a href="https://github.com/kishwordulal1234/project4">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kishwordulal1234&repo=project4&theme=radical" alt="Project 4" />
+        <h3>own crypt currency </h3>
+        <a href="https://github.com/kishwordulal1234/griv-coin">
+          <img src="https://github.com/kishwordulal1234/griv-coin" alt="Project 4" />
         </a>
         <p>Collection of my solutions and approaches to various Capture The Flag challenges</p>
       </td>

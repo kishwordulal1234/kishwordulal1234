@@ -220,10 +220,10 @@
 <!-- GitHub Skyline -->
 <div align="center">
   <h2>🏙️ GitHub Skyline 🏙️</h2>
-  <a href="https://skyline.github.com/kishwordulal1234/2023">
-    <img src="https://dummyimage.com/800x400/3A1C71/ffffff&text=GitHub+Skyline+2023" alt="GitHub Skyline" />
+  <a href="https://skyline.github.com/kishwordulal1234/2023" target="_blank">
+    <img src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.gif" width="600px" alt="GitHub Skyline Animation" />
   </a>
-  <p>View my GitHub Skyline in 3D: <a href="https://skyline.github.com/kishwordulal1234/2023" target="_blank">GitHub Skyline</a></p>
+  <p><b>View my <a href="https://skyline.github.com/kishwordulal1234/2023" target="_blank">GitHub Skyline</a> in 3D</b></p>
 </div>
 
 

@@ -193,70 +193,125 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
-<!-- Achievements Section -->
+<!-- Achievements & Skills Section -->
 <div align="center">
-  <h2>🏆 Achievements & Awards 🏆</h2>
-  
-  <table>
+  <table width="100%">
     <tr>
-      <th>Competition</th>
-      <th>Position</th>
-      <th>Competition</th>
-      <th>Position</th>
-    </tr>
-    <tr>
-      <td>Herald College Hackathon</td>
-      <td>🥇 1st Place</td>
-      <td>The Cyberian Coder</td>
-      <td>🏅 Winner</td>
-    </tr>
-    <tr>
-      <td>CCRC College Tech Fest</td>
-      <td>🏆 Champion</td>
-      <td>National Coding Championship</td>
-      <td>🎖️ Finalist</td>
-    </tr>
-    <tr>
-      <td>Codemandu Hackathon</td>
-      <td>🥈 1st Runner-up</td>
-      <td>Kathmandu Tech Meetup</td>
-      <td>🏆 Best Project</td>
-    </tr>
-    <tr>
-      <td>Thenoman Way Cybersecurity</td>
-      <td>🏅 Winner</td>
-      <td>Digital Nepal Hackathon</td>
-      <td>⭐ Top Performer</td>
-    </tr>
-    <tr>
-      <td>Inter-School Coding Competition</td>
-      <td>🥇 Gold Medal</td>
-      <td>CyberSec Nepal 2023</td>
-      <td>🥇 1st Place</td>
-    </tr>
-    <tr>
-      <td>Inter-College Programming Contest</td>
-      <td>🏆 Champion</td>
-      <td>Ethical Hacking Summit</td>
-      <td>🏆 Champion</td>
-    </tr>
-    <tr>
-      <td>The Payback Hacking Challenge</td>
-      <td>🥇 1st Place</td>
-      <td>KTM CTF Challenge</td>
-      <td>🏅 Winner</td>
-    </tr>
-    <tr>
-      <td>Himalayan Tech Fest</td>
-      <td>🥇 Gold Medal</td>
-      <td>Robotics & AI Challenge</td>
-      <td>🏅 Winner</td>
-    </tr>
-    <tr>
-      <td>Nepal Cyber Olympiad</td>
-      <td>🥇 1st Place</td>
-      <td>Pulchowk Engineering Hackathon</td>
-      <td>🏆 Champion</td>
+      <td width="55%" valign="top">
+        <h2>🏆 Achievements & Awards 🏆</h2>
+        <table>
+          <tr>
+            <th>Competition</th>
+            <th>Position</th>
+            <th>Competition</th>
+            <th>Position</th>
+          </tr>
+          <tr>
+            <td>Herald College Hackathon</td>
+            <td>🥇 1st Place</td>
+            <td>The Cyberian Coder</td>
+            <td>🏅 Winner</td>
+          </tr>
+          <tr>
+            <td>CCRC College Tech Fest</td>
+            <td>🏆 Champion</td>
+            <td>National Coding Championship</td>
+            <td>🎖️ Finalist</td>
+          </tr>
+          <tr>
+            <td>Codemandu Hackathon</td>
+            <td>🥈 1st Runner-up</td>
+            <td>Kathmandu Tech Meetup</td>
+            <td>🏆 Best Project</td>
+          </tr>
+          <tr>
+            <td>Thenoman Way Cybersecurity</td>
+            <td>🏅 Winner</td>
+            <td>Digital Nepal Hackathon</td>
+            <td>⭐ Top Performer</td>
+          </tr>
+          <tr>
+            <td>Inter-School Coding Competition</td>
+            <td>🥇 Gold Medal</td>
+            <td>CyberSec Nepal 2023</td>
+            <td>🥇 1st Place</td>
+          </tr>
+          <tr>
+            <td>Inter-College Programming Contest</td>
+            <td>🏆 Champion</td>
+            <td>Ethical Hacking Summit</td>
+            <td>🏆 Champion</td>
+          </tr>
+          <tr>
+            <td>The Payback Hacking Challenge</td>
+            <td>🥇 1st Place</td>
+            <td>KTM CTF Challenge</td>
+            <td>🏅 Winner</td>
+          </tr>
+          <tr>
+            <td>Himalayan Tech Fest</td>
+            <td>🥇 Gold Medal</td>
+            <td>Robotics & AI Challenge</td>
+            <td>🏅 Winner</td>
+          </tr>
+          <tr>
+            <td>Nepal Cyber Olympiad</td>
+            <td>🥇 1st Place</td>
+            <td>Pulchowk Engineering Hackathon</td>
+            <td>🏆 Champion</td>
+          </tr>
+        </table>
+      </td>
+      <td width="45%" valign="top">
+        <h2>🧠 Skills & Technologies</h2>
+        
+        <h3>💪 Programming Language Proficiency</h3>
+        
+        <table>
+          <tr>
+            <th>Language</th>
+            <th>Proficiency</th>
+          </tr>
+          <tr>
+            <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></td>
+            <td><img src="https://img.shields.io/badge/90%25-3776AB?style=for-the-badge&labelColor=gray" alt="90%" /></td>
+          </tr>
+          <tr>
+            <td><img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++"/></td>
+            <td><img src="https://img.shields.io/badge/80%25-00599C?style=for-the-badge&labelColor=gray" alt="80%" /></td>
+          </tr>
+          <tr>
+            <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></td>
+            <td><img src="https://img.shields.io/badge/70%25-F7DF1E?style=for-the-badge&labelColor=gray&color=F7DF1E&logoColor=black" alt="70%" /></td>
+          </tr>
+          <tr>
+            <td><img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS"/></td>
+            <td><img src="https://img.shields.io/badge/75%25-E34F26?style=for-the-badge&labelColor=gray" alt="75%" /></td>
+          </tr>
+          <tr>
+            <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></td>
+            <td><img src="https://img.shields.io/badge/60%25-3178C6?style=for-the-badge&labelColor=gray" alt="60%" /></td>
+          </tr>
+          <tr>
+            <td><img src="https://img.shields.io/badge/Bash/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash/Shell"/></td>
+            <td><img src="https://img.shields.io/badge/70%25-4EAA25?style=for-the-badge&labelColor=gray" alt="70%" /></td>
+          </tr>
+        </table>
+        
+        <h3>☁️ Cloud & DevOps</h3>
+        
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+        
+        <h3>🔧 Tools I Love</h3>
+        
+        <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+        <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      </td>
     </tr>
   </table>
 </div>
@@ -283,57 +338,6 @@
   <a href="https://github.com/kishwordulal1234">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishwordulal1234&theme=react-dark&hide_border=true&custom_title=Kishwor's%20Contribution%20Graph" alt="Activity Graph" />
   </a>
-</div>
-
-<div align="center">
-  <h2>🧠 Skills & Technologies</h2>
-  
-  <h3>💪 Programming Language Proficiency</h3>
-  
-  <table>
-    <tr>
-      <th>Language</th>
-      <th>Proficiency</th>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></td>
-      <td><img src="https://img.shields.io/badge/90%25-3776AB?style=for-the-badge&labelColor=gray" alt="90%" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++"/></td>
-      <td><img src="https://img.shields.io/badge/80%25-00599C?style=for-the-badge&labelColor=gray" alt="80%" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></td>
-      <td><img src="https://img.shields.io/badge/70%25-F7DF1E?style=for-the-badge&labelColor=gray&color=F7DF1E&logoColor=black" alt="70%" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS"/></td>
-      <td><img src="https://img.shields.io/badge/75%25-E34F26?style=for-the-badge&labelColor=gray" alt="75%" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></td>
-      <td><img src="https://img.shields.io/badge/60%25-3178C6?style=for-the-badge&labelColor=gray" alt="60%" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Bash/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash/Shell"/></td>
-      <td><img src="https://img.shields.io/badge/70%25-4EAA25?style=for-the-badge&labelColor=gray" alt="70%" /></td>
-    </tr>
-  </table>
-  
-  <h3>☁️ Cloud & DevOps</h3>
-  
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  
-  <h3>🔧 Tools I Love</h3>
-  
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 

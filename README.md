@@ -89,53 +89,52 @@
   <summary><b>🛠️ Tech Stack</b></summary>
   <br>
   <div align="center">
-    <h3>💻 Languages & Frameworks</h3>
-    <img src="https://skillicons.dev/icons?i=python,c,html,css,js,ts,react,nodejs,git,bash" />
-    
-    <h3>🔒 Cybersecurity Arsenal</h3>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&color=0097C7" alt="Wireshark" />
-      <img src="https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white&color=E8472D" alt="Metasploit" />
-      <img src="https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white&color=F85A2A" alt="Burp Suite" />
-      <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white&color=4B9CD3" alt="Nmap" />
-    </p>
-    
-    <h3>🧰 Developer Tools</h3>
-    <p align="center">
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </p>
-    
-    <h3>💬 Let's Connect</h3>
-    <p align="center">
-      <a href="https://linkedin.com/in/kishwordulal">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn" />
-      </a>
-      <a href="https://twitter.com/kishwordulal">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=1D9BF0" alt="Twitter" />
-      </a>
-      <a href="https://www.facebook.com/kishwor.dulal.19">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-      </a>
-      <a href="https://www.instagram.com/un1kn0n3_h4rt/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F" alt="Instagram" />
-      </a>
-      <a href="mailto:kishwordulal1234@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-      </a>
-      <a href="https://tryhackme.com/p/kishwordulal44">
-        <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&color=212C42" alt="TryHackMe" />
-      </a>
-    </p>
-    
-    <h3>🛡️ Cybersecurity Badges</h3>
-    <div align="center">
-      <a href="https://tryhackme.com/p/kishwordulal44" target="_blank">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/kishwordulal44.png" alt="TryHackMe Badge" />
-      </a>
-    </div>
+  
+  ### 💻 Languages & Frameworks
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,ts,react,nodejs,git,bash" />
+  
+  ### 🔒 Cybersecurity Arsenal
+  <p>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  </p>
+  
+  ### 🧰 Developer Tools
+  <p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </p>
+  
+  ### 💬 Let's Connect
+  <p>
+  <a href="https://linkedin.com/in/kishwordulal">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/kishwordulal">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.facebook.com/kishwor.dulal.19">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/un1kn0n3_h4rt/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:kishwordulal1234@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://tryhackme.com/p/kishwordulal44">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  </a>
+  </p>
+  
+  ### 🛡️ Cybersecurity Badges
+  <a href="https://tryhackme.com/p/kishwordulal44" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/kishwordulal44.png" alt="TryHackMe Badge" />
+  </a>
   </div>
 </details>
 

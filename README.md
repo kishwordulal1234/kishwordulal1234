@@ -195,7 +195,13 @@
 
 <div align="center">
   <h3>💻 Coding Activity</h3>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kishwordulal1234&theme=radical" alt="WakaTime Stats" />
+  <a href="https://github.com/kishwordulal1234">
+    <img src="https://github-readme-stats.vercel.app/api?username=kishwordulal1234&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Kishwor's GitHub Stats" />
+  </a>
+  <br><br>
+  <a href="https://github.com/kishwordulal1234">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishwordulal1234&theme=radical&hide_border=true" alt="Kishwor's GitHub Streak" />
+  </a>
 </div>
 
 <div align="center">

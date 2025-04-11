@@ -194,98 +194,102 @@
 </div>
 
 <!-- Achievements Section -->
-<h2 align="center">🏆 Achievements & Awards</h2>
-<table>
-  <tr>
-    <th>Competition</th>
-    <th>Position</th>
-    <th>Competition</th>
-    <th>Position</th>
-  </tr>
-  <tr>
-    <td>Herald College Hackathon</td>
-    <td>🥇 1st Place</td>
-    <td>The Cyberian Coder</td>
-    <td>🏅 Winner</td>
-  </tr>
-  <tr>
-    <td>CCRC College Tech Fest</td>
-    <td>🏆 Champion</td>
-    <td>National Coding Championship</td>
-    <td>🎖️ Finalist</td>
-  </tr>
-  <tr>
-    <td>Codemandu Hackathon</td>
-    <td>🥈 1st Runner-up</td>
-    <td>Kathmandu Tech Meetup</td>
-    <td>🏆 Best Project</td>
-  </tr>
-  <tr>
-    <td>Thenoman Way Cybersecurity</td>
-    <td>🏅 Winner</td>
-    <td>Digital Nepal Hackathon</td>
-    <td>⭐ Top Performer</td>
-  </tr>
-  <tr>
-    <td>Inter-School Coding Competition</td>
-    <td>🥇 Gold Medal</td>
-    <td>CyberSec Nepal 2023</td>
-    <td>🥇 1st Place</td>
-  </tr>
-  <tr>
-    <td>Inter-College Programming Contest</td>
-    <td>🏆 Champion</td>
-    <td>Ethical Hacking Summit</td>
-    <td>🏆 Champion</td>
-  </tr>
-  <tr>
-    <td>The Payback Hacking Challenge</td>
-    <td>🥇 1st Place</td>
-    <td>KTM CTF Challenge</td>
-    <td>🏅 Winner</td>
-  </tr>
-  <tr>
-    <td>Himalayan Tech Fest</td>
-    <td>🥇 Gold Medal</td>
-    <td>Robotics & AI Challenge</td>
-    <td>🏅 Winner</td>
-  </tr>
-  <tr>
-    <td>Nepal Cyber Olympiad</td>
-    <td>🥇 1st Place</td>
-    <td>Pulchowk Engineering Hackathon</td>
-    <td>🏆 Champion</td>
-  </tr>
-</table>
+<h2 align="center">🏆 Achievements & Awards 🏆</h2>
+<div align="center">
+  <table>
+    <tr>
+      <th align="center" width="25%">Competition</th>
+      <th align="center" width="20%">Position</th>
+      <th align="center" width="25%">Competition</th>
+      <th align="center" width="20%">Position</th>
+    </tr>
+    <tr>
+      <td align="center">Herald College Hackathon</td>
+      <td align="center"><img src="https://img.shields.io/badge/1st_Place-FFD700?style=flat-square&logo=medal&logoColor=white" alt="1st Place"/></td>
+      <td align="center">The Cyberian Coder</td>
+      <td align="center"><img src="https://img.shields.io/badge/Winner-00C853?style=flat-square&logo=checkmark&logoColor=white" alt="Winner"/></td>
+    </tr>
+    <tr>
+      <td align="center">CCRC College Tech Fest</td>
+      <td align="center"><img src="https://img.shields.io/badge/Champion-1E88E5?style=flat-square&logo=trophy&logoColor=white" alt="Champion"/></td>
+      <td align="center">National Coding Championship</td>
+      <td align="center"><img src="https://img.shields.io/badge/Finalist-607D8B?style=flat-square&logo=award&logoColor=white" alt="Finalist"/></td>
+    </tr>
+    <tr>
+      <td align="center">Codemandu Hackathon</td>
+      <td align="center"><img src="https://img.shields.io/badge/1st_Runner--up-C0C0C0?style=flat-square&logo=medal&logoColor=white" alt="1st Runner-up"/></td>
+      <td align="center">Kathmandu Tech Meetup</td>
+      <td align="center"><img src="https://img.shields.io/badge/Best_Project-FF5722?style=flat-square&logo=project&logoColor=white" alt="Best Project"/></td>
+    </tr>
+    <tr>
+      <td align="center">Thenoman Way Cybersecurity</td>
+      <td align="center"><img src="https://img.shields.io/badge/Winner-00C853?style=flat-square&logo=checkmark&logoColor=white" alt="Winner"/></td>
+      <td align="center">Digital Nepal Hackathon</td>
+      <td align="center"><img src="https://img.shields.io/badge/Top_Performer-7B1FA2?style=flat-square&logo=star&logoColor=white" alt="Top Performer"/></td>
+    </tr>
+    <tr>
+      <td align="center">Inter-School Coding Competition</td>
+      <td align="center"><img src="https://img.shields.io/badge/Gold_Medal-FFD700?style=flat-square&logo=medal&logoColor=white" alt="Gold Medal"/></td>
+      <td align="center">CyberSec Nepal 2023</td>
+      <td align="center"><img src="https://img.shields.io/badge/1st_Place-FFD700?style=flat-square&logo=medal&logoColor=white" alt="1st Place"/></td>
+    </tr>
+    <tr>
+      <td align="center">Inter-College Programming Contest</td>
+      <td align="center"><img src="https://img.shields.io/badge/Champion-1E88E5?style=flat-square&logo=trophy&logoColor=white" alt="Champion"/></td>
+      <td align="center">Ethical Hacking Summit</td>
+      <td align="center"><img src="https://img.shields.io/badge/Champion-1E88E5?style=flat-square&logo=trophy&logoColor=white" alt="Champion"/></td>
+    </tr>
+    <tr>
+      <td align="center">The Payback Hacking Challenge</td>
+      <td align="center"><img src="https://img.shields.io/badge/1st_Place-FFD700?style=flat-square&logo=medal&logoColor=white" alt="1st Place"/></td>
+      <td align="center">KTM CTF Challenge</td>
+      <td align="center"><img src="https://img.shields.io/badge/Winner-00C853?style=flat-square&logo=checkmark&logoColor=white" alt="Winner"/></td>
+    </tr>
+    <tr>
+      <td align="center">Himalayan Tech Fest</td>
+      <td align="center"><img src="https://img.shields.io/badge/Gold_Medal-FFD700?style=flat-square&logo=medal&logoColor=white" alt="Gold Medal"/></td>
+      <td align="center">Robotics & AI Challenge</td>
+      <td align="center"><img src="https://img.shields.io/badge/Winner-00C853?style=flat-square&logo=checkmark&logoColor=white" alt="Winner"/></td>
+    </tr>
+    <tr>
+      <td align="center">Nepal Cyber Olympiad</td>
+      <td align="center"><img src="https://img.shields.io/badge/1st_Place-FFD700?style=flat-square&logo=medal&logoColor=white" alt="1st Place"/></td>
+      <td align="center">Pulchowk Engineering Hackathon</td>
+      <td align="center"><img src="https://img.shields.io/badge/Champion-1E88E5?style=flat-square&logo=trophy&logoColor=white" alt="Champion"/></td>
+    </tr>
+  </table>
+</div>
 
 <!-- Skills Section -->
-<h2 align="center">🧠 Skills & Technologies</h2>
+<h2 align="center">🧠 Skills & Technologies 🧠</h2>
 
 <h3 align="center">💪 Programming Language Proficiency</h3>
 
 <p align="center">
-  <code>Python (90%)</code> • 
-  <code>C/C++ (80%)</code> • 
-  <code>JavaScript (70%)</code> • 
-  <code>HTML/CSS (75%)</code> • 
-  <code>TypeScript (60%)</code> • 
-  <code>Bash/Shell (70%)</code>
+  <img src="https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C/C++-80%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++" />
+  <img src="https://img.shields.io/badge/JavaScript-70%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML/CSS-75%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS" />
+  <img src="https://img.shields.io/badge/TypeScript-60%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Bash/Shell-70%25-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash/Shell" />
 </p>
 
 <h3 align="center">☁️ Cloud & DevOps</h3>
 <p align="center">
-  <code>AWS</code> • 
-  <code>Docker</code> • 
-  <code>GitHub Actions</code> • 
-  <code>Linux</code>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 <h3 align="center">🔧 Tools I Love</h3>
 <p align="center">
-  <code>Neovim</code> • 
-  <code>tmux</code> • 
-  <code>Jupyter</code> • 
-  <code>Git</code>
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 <!-- Random Dev Meme -->

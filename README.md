@@ -200,7 +200,7 @@
 
 <div align="center">
   <h3>😂 Random Dev Meme</h3>
-  <img src="https://programmerhumor.io/wp-content/uploads/2022/07/programmerhumor-io-debugging-memes-programming-memes-ad2644e54f7af37-608x634.jpg" width="400px" alt="Random Dev Meme" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG01bWlwM2dpd2dmMWY2Nm5pZnlyM2EyODdteTl6dXdhNWJrYzJ0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="400px" alt="Random Dev Meme" />
 </div>
 
 <div align="center">
@@ -211,8 +211,10 @@
 
 <!-- Activity Graph -->
 <div align="center">
-  <h2>📈 Contribution Activity Graph 📈</h2>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kishwordulal1234&theme=radical&bg_color=20232a&hide_border=true" alt="Activity Graph" />
+  <h2>📊 Contribution Activity Graph 📊</h2>
+  <a href="https://github.com/kishwordulal1234">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishwordulal1234&theme=react-dark&hide_border=true&custom_title=Kishwor's%20Contribution%20Graph" alt="Activity Graph" />
+  </a>
 </div>
 
 <!-- GitHub Skyline -->

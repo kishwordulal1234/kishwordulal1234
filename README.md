@@ -145,14 +145,14 @@
       <td width="50%" align="center">
         <h3>Security Tool</h3>
         <a href="https://github.com/kishwordulal1234/SENTINEL">
-          <img src="https://raw.githubusercontent.com/kishwordulal1234/kishwordulal1234/main/images/project1.png" alt="Project 1" />
+          <img src="https://dummyimage.com/300x200/3A1C71/ffffff&text=Security+Tool" alt="Project 1" />
         </a>
         <p>A cybersecurity tool built with Python for network analysis and vulnerability scanning</p>
       </td>
       <td width="50%" align="center">
         <h3>Web Application</h3>
         <a href="https://github.com/kishwordulal1234/ai_health-bot">
-          <img src="https://raw.githubusercontent.com/kishwordulal1234/kishwordulal1234/main/images/project2.png" alt="Project 2" />
+          <img src="https://dummyimage.com/300x200/3A1C71/ffffff&text=Web+Application" alt="Project 2" />
         </a>
         <p>A full-stack web application built with React, Node.js, and MongoDB</p>
       </td>
@@ -161,14 +161,14 @@
       <td width="50%" align="center">
         <h3>Linux Tool</h3>
         <a href="https://github.com/kishwordulal1234/zotak.ai">
-          <img src="https://raw.githubusercontent.com/kishwordulal1234/kishwordulal1234/main/images/project3.png" alt="Project 3" />
+          <img src="https://dummyimage.com/300x200/3A1C71/ffffff&text=Linux+Tool" alt="Project 3" />
         </a>
         <p>A command-line utility written in C for system administration and automation</p>
       </td>
       <td width="50%" align="center">
         <h3>Own Cryptocurrency</h3>
         <a href="https://github.com/kishwordulal1234/griv-coin">
-          <img src="https://raw.githubusercontent.com/kishwordulal1234/kishwordulal1234/main/images/project4.png" alt="Project 4" />
+          <img src="https://dummyimage.com/300x200/3A1C71/ffffff&text=Cryptocurrency" alt="Project 4" />
         </a>
         <p>Collection of my solutions and approaches to various Capture The Flag challenges</p>
       </td>
@@ -178,7 +178,9 @@
 
 <div align="center">
   <h3>🐍 My Contribution Graph</h3>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kishwordulal1234&theme=radical" alt="contribution graph" />
+  <a href="https://github.com/kishwordulal1234/kishwordulal1234">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kishwordulal1234&theme=radical" alt="contribution graph" />
+  </a>
 </div>
 
 <br>
@@ -195,7 +197,7 @@
 
 <div align="center">
   <h3>😂 Random Dev Meme</h3>
-  <img src="https://img.devrant.com/devrant/rant/r_2672059_BsAdL.jpg" width="400px" alt="Random Dev Meme" />
+  <img src="https://programmerhumor.io/wp-content/uploads/2022/07/programmerhumor-io-debugging-memes-programming-memes-ad2644e54f7af37-608x634.jpg" width="400px" alt="Random Dev Meme" />
 </div>
 
 <div align="center">
@@ -207,7 +209,16 @@
 <!-- Activity Graph -->
 <div align="center">
   <h2>📈 Contribution Activity Graph 📈</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishwordulal1234&theme=react-dark" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kishwordulal1234&theme=radical&bg_color=20232a&hide_border=true" alt="Activity Graph" />
+</div>
+
+<!-- GitHub Skyline -->
+<div align="center">
+  <h2>🏙️ GitHub Skyline 🏙️</h2>
+  <a href="https://skyline.github.com/kishwordulal1234/2023">
+    <img src="https://dummyimage.com/800x400/3A1C71/ffffff&text=GitHub+Skyline+2023" alt="GitHub Skyline" />
+  </a>
+  <p>View my GitHub Skyline in 3D: <a href="https://skyline.github.com/kishwordulal1234/2023" target="_blank">GitHub Skyline</a></p>
 </div>
 
 
